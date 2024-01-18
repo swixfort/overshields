@@ -1,4 +1,4 @@
-## Interface: 100005
+## Interface: 100205
 ## Title: Overshields
 ## Author: Casper Rogild Storm
 ## Version: v1.1.1
